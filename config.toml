@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "Mark Theunissen"
 theme = "ananke"
 publishDir = "docs"
+featured_image = '/docs/images/ViewfromOffice.jpg'
