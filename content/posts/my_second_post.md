@@ -1,7 +1,7 @@
 ---
 title: "The Azande"
 date: 2017-09-18T11:43:07-04:00
-featured_image : "/images/ViewfromOffice.jpg"
+featured_image : '/images/ViewfromOffice.jpg'
 draft: false
 ---
 
