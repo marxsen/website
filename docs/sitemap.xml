@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://marxsen.github.io/website/categories/</loc>
+    <loc>https://marxsen.github.io/website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://marxsen.github.io/website/</loc>
+    <loc>https://marxsen.github.io/website/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://marxsen.github.io/website/tags/</loc>
+    <loc>https://marxsen.github.io/website/tags/</loc>
     <priority>0</priority>
   </url>
   
