@@ -6,6 +6,5 @@ draft: false
 
 ---
 
-#1 Suffering the Everyday \
-
-Mike Leigh's oeuvre is marked by tales of everyday suffering. 
+## Suffering the Everyday \
+Mike Leigh's oeuvre is marked by tales of everyday suffering. \
