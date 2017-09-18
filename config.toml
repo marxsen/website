@@ -1,4 +1,4 @@
-baseURL = "website"
+baseURL = "marxsen.github.io"
 languageCode = "en-us"
 title = "Mark Theunissen"
 theme = "ananke"
