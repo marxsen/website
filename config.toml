@@ -1,6 +1,6 @@
 baseURL = "https://marxsen.github.io/website/"
 languageCode = "en-us"
 title = "Mark Theunissen"
-theme = "ananke"
+theme = "gohugo-theme-ananke"
+featured_image = "/images/ViewfromOffice.jpg"
 publishDir = "docs"
-featured_image = '/docs/images/ViewfromOffice.jpg'
